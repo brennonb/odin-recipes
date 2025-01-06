@@ -2,6 +2,10 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+body {
+    background-image: url(/resources/cookingpaper.png);
+}
+
 .heading {
     text-align: center;
     font-weight: 300;
