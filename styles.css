@@ -10,3 +10,13 @@
     border-radius: 10px;
 }
 
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center-text {
+    text-align: center;
+}
